@@ -384,6 +384,7 @@ li {
 
 
 #home {
+  position: relative;
   background-image: url('https://mir-s3-cdn-cf.behance.net/project_modules/fs/8ed5d3165801561.640df1c7b8505.jpg');
   background-size: cover;
   background-position: center;
