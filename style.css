@@ -396,6 +396,15 @@ li {
   animation-duration: 30s;
   animation-delay: 3s;
   animation-iteration-count: infinite;
+  z-index: 5;
+}
+#home::before {
+  z-index: 6;
+  content: " ";
+  position: absolute;
+  width: 100%;
+  height 50vh;
+  background: linear-gradient(to bottom, white, transparent, transparent);
 }
 #homeburger {
   position: absolute;
