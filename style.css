@@ -404,7 +404,7 @@ li {
   position: absolute;
   width: 100%;
   height: 50vh;
-  background: linear-gradient(to bottom, white, transparent, transparent);
+  background: linear-gradient(to top, black, transparent);
 }
 #homeburger {
   position: absolute;
